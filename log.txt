@@ -1,0 +1,117 @@
+2024-09-30 15:34:19,983 - INFO - Program started
+2024-09-30 15:35:09,722 - INFO - Program started
+2024-09-30 15:35:09,722 - DEBUG - create folders
+2024-09-30 15:35:09,724 - DEBUG - create database
+2024-09-30 15:35:09,728 - DEBUG - create tables
+2024-09-30 15:35:09,741 - DEBUG - insert_data_from_csv
+2024-09-30 15:35:09,741 - INFO - Program ended
+2024-09-30 15:35:25,012 - INFO - Program started
+2024-09-30 15:37:06,719 - INFO - Program started
+2024-09-30 15:38:18,693 - INFO - Program started
+2024-09-30 15:38:18,697 - INFO - Executed SQL from sql/delete_records.sql
+2024-09-30 15:38:18,697 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,698 - ERROR - Error executing SQL from sql/insert_records.sql: near "(": syntax error
+2024-09-30 15:38:18,698 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,698 - INFO - Executed SQL from sql/query_aggregation.sql
+2024-09-30 15:38:18,698 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,698 - INFO - Executed SQL from sql/query_filter.sql
+2024-09-30 15:38:18,698 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,698 - INFO - Executed SQL from sql/query_group_by.sql
+2024-09-30 15:38:18,698 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,699 - INFO - Executed SQL from sql/query_join.sql
+2024-09-30 15:38:18,699 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,699 - INFO - Executed SQL from sql/query_sorting.sql
+2024-09-30 15:38:18,699 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,699 - INFO - Executed SQL from sql/update_records.sql
+2024-09-30 15:38:18,699 - DEBUG - execute_sql_from_file
+2024-09-30 15:38:18,699 - INFO - Program ended
+2024-09-30 16:55:31,037 - INFO - Program started
+2024-09-30 16:55:31,037 - DEBUG - create folders
+2024-09-30 16:55:31,039 - DEBUG - create database
+2024-09-30 16:55:31,043 - DEBUG - create tables
+2024-09-30 16:55:31,053 - DEBUG - insert_data_from_csv
+2024-09-30 16:55:31,053 - INFO - Program ended
+2024-09-30 16:55:36,716 - INFO - Program started
+2024-09-30 16:55:36,718 - INFO - Executed SQL from sql/delete_records.sql
+2024-09-30 16:55:36,718 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,718 - ERROR - Error executing SQL from sql/insert_records.sql: near "(": syntax error
+2024-09-30 16:55:36,718 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,719 - INFO - Executed SQL from sql/query_aggregation.sql
+2024-09-30 16:55:36,719 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,719 - INFO - Executed SQL from sql/query_filter.sql
+2024-09-30 16:55:36,719 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,720 - INFO - Executed SQL from sql/query_group_by.sql
+2024-09-30 16:55:36,720 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,720 - INFO - Executed SQL from sql/query_join.sql
+2024-09-30 16:55:36,720 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,721 - INFO - Executed SQL from sql/query_sorting.sql
+2024-09-30 16:55:36,721 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,721 - INFO - Executed SQL from sql/update_records.sql
+2024-09-30 16:55:36,721 - DEBUG - execute_sql_from_file
+2024-09-30 16:55:36,721 - INFO - Program ended
+2024-09-30 17:24:03,481 - INFO - Program started
+2024-09-30 17:24:03,481 - DEBUG - create folders
+2024-09-30 17:24:03,484 - DEBUG - create database
+2024-09-30 17:24:03,488 - DEBUG - create tables
+2024-09-30 17:24:03,502 - DEBUG - insert_data_from_csv
+2024-09-30 17:24:03,502 - INFO - Program ended
+2024-09-30 17:24:08,745 - INFO - Program started
+2024-09-30 17:24:08,747 - INFO - Executed SQL from sql/delete_records.sql
+2024-09-30 17:24:08,747 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,748 - ERROR - Error executing SQL from sql/insert_records.sql: near "(": syntax error
+2024-09-30 17:24:08,748 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,748 - INFO - Executed SQL from sql/query_aggregation.sql
+2024-09-30 17:24:08,749 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,749 - INFO - Executed SQL from sql/query_filter.sql
+2024-09-30 17:24:08,749 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,749 - INFO - Executed SQL from sql/query_group_by.sql
+2024-09-30 17:24:08,749 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,750 - INFO - Executed SQL from sql/query_join.sql
+2024-09-30 17:24:08,750 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,751 - INFO - Executed SQL from sql/query_sorting.sql
+2024-09-30 17:24:08,751 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,751 - INFO - Executed SQL from sql/update_records.sql
+2024-09-30 17:24:08,751 - DEBUG - execute_sql_from_file
+2024-09-30 17:24:08,751 - INFO - Program ended
+2024-09-30 17:25:22,602 - INFO - Program started
+2024-09-30 17:25:22,603 - DEBUG - create folders
+2024-09-30 17:25:22,604 - DEBUG - create database
+2024-09-30 17:25:22,609 - DEBUG - create tables
+2024-09-30 17:25:22,620 - DEBUG - insert_data_from_csv
+2024-09-30 17:25:22,620 - INFO - Program ended
+2024-09-30 17:25:27,964 - INFO - Program started
+2024-09-30 17:25:27,965 - INFO - Executed SQL from sql/delete_records.sql
+2024-09-30 17:25:27,965 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,966 - ERROR - Error executing SQL from sql/insert_records.sql: table authors has no column named first_name
+2024-09-30 17:25:27,966 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,966 - INFO - Executed SQL from sql/query_aggregation.sql
+2024-09-30 17:25:27,966 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,967 - INFO - Executed SQL from sql/query_filter.sql
+2024-09-30 17:25:27,967 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,967 - INFO - Executed SQL from sql/query_group_by.sql
+2024-09-30 17:25:27,968 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,968 - INFO - Executed SQL from sql/query_join.sql
+2024-09-30 17:25:27,968 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,968 - INFO - Executed SQL from sql/query_sorting.sql
+2024-09-30 17:25:27,968 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,969 - INFO - Executed SQL from sql/update_records.sql
+2024-09-30 17:25:27,969 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:27,969 - INFO - Program ended
+2024-09-30 17:25:52,778 - INFO - Program started
+2024-09-30 17:25:52,779 - INFO - Executed SQL from sql/delete_records.sql
+2024-09-30 17:25:52,779 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,781 - INFO - Executed SQL from sql/insert_records.sql
+2024-09-30 17:25:52,781 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,781 - INFO - Executed SQL from sql/query_aggregation.sql
+2024-09-30 17:25:52,781 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,781 - INFO - Executed SQL from sql/query_filter.sql
+2024-09-30 17:25:52,781 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,782 - INFO - Executed SQL from sql/query_group_by.sql
+2024-09-30 17:25:52,782 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,782 - INFO - Executed SQL from sql/query_join.sql
+2024-09-30 17:25:52,782 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,782 - INFO - Executed SQL from sql/query_sorting.sql
+2024-09-30 17:25:52,782 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,783 - INFO - Executed SQL from sql/update_records.sql
+2024-09-30 17:25:52,783 - DEBUG - execute_sql_from_file
+2024-09-30 17:25:52,783 - INFO - Program ended
